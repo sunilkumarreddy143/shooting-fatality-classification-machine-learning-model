@@ -1,2 +1,0 @@
-Notebooks → folder
-placeholder.txt → temporary file
